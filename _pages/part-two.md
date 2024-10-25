@@ -1,7 +1,7 @@
 ---
 layout: page
-title: now
-permalink: /now
+title: Part Two
+permalink: /part-two
 ---
 <article class="pa3 pa5-ns mw7 center">
   <div>

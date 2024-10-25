@@ -1,7 +1,7 @@
 ---
 layout: page
-title: notas
-permalink: /notas
+title: Part One
+permalink: /part-one
 ---
  <main class="mw7 center">
   <h1 class="strong pa3 pa4-ns fw1 dark-gray f6 f5-l mt0">principalmente cloud computing, libros & AI</h1>

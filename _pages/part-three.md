@@ -1,7 +1,7 @@
 ---
 layout: page
-title: temas
-permalink: /temas
+title: Part Three
+permalink: /part-three
 ---
 <h1 class="f4 bold center mw5">temas</h1>
 <ul class="list pl0 ml0 center mw5 ba b--light-silver br3">
