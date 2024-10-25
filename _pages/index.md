@@ -3,6 +3,7 @@ layout: default-index
 subtitle: blog.
 permalink: /
 ---
+<p class="fw1 i tc mt4 mt5-l f4 f3-l">Are you looking for one of these?</p>
 <main class="mw7 center ph3 pt3 pt4-ns">
   <div class="pa4 br2 bg-light-gray shadow-4 mw6 center">
     <a href="/about" class="db overflow-hidden image-container">
