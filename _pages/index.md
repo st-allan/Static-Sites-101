@@ -22,7 +22,7 @@ permalink: /
     <dt class="clip">Title</dt>
     <dd class="ml0">Blonde</dd>
     <dt class="clip">Artist</dt>
-    <dd class="ml0 gray">Frank Ocean</dd>
+    <dd class="ml0 gray">example 1</dd>
      </dl>
    </a>
     <p class="f6 f5-l lh-copy">
@@ -38,7 +38,7 @@ permalink: /
     <dt class="clip">Title</dt>
     <dd class="ml0">Blonde</dd>
     <dt class="clip">Artist</dt>
-    <dd class="ml0 gray">Frank Ocean</dd>
+    <dd class="ml0 gray">example 2</dd>
      </dl>
    </a>
     <p class="f6 f5-l lh-copy">
@@ -54,7 +54,7 @@ permalink: /
     <dt class="clip">Title</dt>
     <dd class="ml0">Blonde</dd>
     <dt class="clip">Artist</dt>
-    <dd class="ml0 gray">Frank Ocean</dd>
+    <dd class="ml0 gray">example 3</dd>
      </dl>
    </a>
     <p class="f6 f5-l lh-copy">
