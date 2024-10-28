@@ -4,7 +4,6 @@ subtitle: blog.
 permalink: /
 ---
 <article class="pa3 pa4-ns mw7 center">
-<p class="near-black center">DLI Professional Diploma in Digital Learning Design: Final Project</p>
   <div>
     <h1 class="dark-gray f5 f4-l mt0">introduction</h1>
     <p class="f6 f5-l lh-copy">
