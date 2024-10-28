@@ -13,7 +13,7 @@ permalink: /
     <p class="f6 f5-l lh-copy">
       For example, a simple blog with text and images is static, while an e-commerce or social media site, where users can alter available stock or create and display posts, is dynamic.
     </p>
-    <a class="db pa3 center mw6 tc black link dim"
+    <a class="db pa4 center mw6 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
        href="https://ca.braun.com/en-ca">
 
@@ -29,7 +29,7 @@ permalink: /
     <p class="f6 f5-l lh-copy">
       Due to their simplicity, static websites are easy to set up and launch. Content is created and published once, and maintaining these sites usually involves editing basic HTML or CSS files.
     </p>
-    <a class="db center mw6 tc black link dim"
+    <a class="db pa4 center mw6 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
        href="https://designsystem.digital.gov/">
 
@@ -45,7 +45,7 @@ permalink: /
     <p class="f6 f5-l lh-copy">
      Static sites are often used for web-based portfolios, resumes, blogs, and documentation. Today, many platforms offer tools and templates that simplify the process of building a static site. Hosting a static site can even be free on platforms like GitHub (GitHub, 2024) or very inexpensive, as with Amazon Web Services (AWS, 2024).
     </p>
-    <a class="db center mw6 tc black link dim"
+    <a class="db pa4 center mw6 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
        href="https://www.joshuakaplan.com/">
 
