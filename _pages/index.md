@@ -12,6 +12,19 @@ permalink: /
     <p class="f6 f5-l lh-copy">
       For example, a simple blog with text and images is static, while an e-commerce or social media site, where users can alter available stock or create and display posts, is dynamic.
     </p>
+    <a class="db center mw5 tc black link dim"
+       title="Frank Ocean's Blonde on Apple Music"
+       href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
+
+   <img class="db ba b--black-10"/ alt="Frank Ocean Blonde Album Cover" src="https://s3-us-west-1.amazonaws.com/tachyonsio/img/Blonde-Frank_Ocean.jpeg">
+
+  <dl class="mt2 f6 lh-copy">
+    <dt class="clip">Title</dt>
+    <dd class="ml0">Blonde</dd>
+    <dt class="clip">Artist</dt>
+    <dd class="ml0 gray">Frank Ocean</dd>
+     </dl>
+   </a>
     <p class="f6 f5-l lh-copy">
       Due to their simplicity, static websites are easy to set up and launch. Content is created and published once, and maintaining these sites usually involves editing basic HTML or CSS files.
     </p>
