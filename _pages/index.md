@@ -13,7 +13,7 @@ permalink: /
     <p class="f6 f5-l lh-copy">
       For example, a simple blog with text and images is static, while an e-commerce or social media site, where users can alter available stock or create and display posts, is dynamic.
     </p>
-    <a class="db center mw6 tc black link dim"
+    <a class="db pa3 center mw6 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
        href="https://ca.braun.com/en-ca">
 
