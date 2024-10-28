@@ -20,9 +20,9 @@ permalink: /
 
   <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
-    <dd class="ml0">Blonde</dd>
+    <dd class="ml0">example 1</dd>
     <dt class="clip">Artist</dt>
-    <dd class="ml0 gray">example 1</dd>
+    <dd class="ml0 gray">Braun's Static Product Site</dd>
      </dl>
    </a>
     <p class="f6 f5-l lh-copy">
@@ -36,9 +36,9 @@ permalink: /
 
   <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
-    <dd class="ml0">Blonde</dd>
+    <dd class="ml0">example 2</dd>
     <dt class="clip">Artist</dt>
-    <dd class="ml0 gray">example 2</dd>
+    <dd class="ml0 gray">U.S. Web Design System Static Documentation Site</dd>
      </dl>
    </a>
     <p class="f6 f5-l lh-copy">
@@ -52,9 +52,9 @@ permalink: /
 
   <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
-    <dd class="ml0">Blonde</dd>
+    <dd class="ml0">example 3</dd>
     <dt class="clip">Artist</dt>
-    <dd class="ml0 gray">example 3</dd>
+    <dd class="ml0 gray">Joshua Kaplan's Static Portfolio Site</dd>
      </dl>
    </a>
     <p class="f6 f5-l lh-copy">
