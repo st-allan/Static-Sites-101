@@ -3,36 +3,21 @@ layout: default-index
 subtitle: blog.
 permalink: /
 ---
-<p class="fw1 i tc mt4 mt5-l f4 f3-l">Are you looking for one of these?</p>
-<main class="mw7 center ph3 pt3 pt4-ns">
-  <div class="pa4 br2 bg-light-gray shadow-4 mw6 center">
-    <a href="/about" class="db overflow-hidden image-container">
-    <img class="mw-100 db center" style="transform:rotate(-2deg)" src="assets/alan.jpg" alt="Alan in Mexico City">
-   </a>
+<article class="pa3 pa4-ns mw7 center">
+  <div>
+    <h1 class="dark-gray f5 f4-l mt0">introduction</h1>
+    <p class="f6 f5-l lh-copy">
+      A static site or static page is a type of website that consists of fixed content—typically simple HTML, CSS, and media files (e.g., images, audio, and video)—delivered to the user exactly as it is stored on the server. This content does not change and cannot be modified by viewers, hence the term "static." For example, a simple blog with text and images is static, while an e-commerce or social media site, where users can alter available stock or create and display posts, is dynamic.
+    </p>
+    <p class="f6 f5-l lh-copy">
+      Due to their simplicity, static websites are easy to set up and launch. Content is created and published once, and maintaining these sites usually involves editing basic HTML or CSS files.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Static sites are often used for web-based portfolios, resumes, blogs, and documentation. Today, many platforms offer tools and templates that simplify the process of building a static site. Hosting a static site can even be free on platforms like GitHub (GitHub, 2024) or very inexpensive, as with Amazon Web Services (AWS, 2024).
+    </p>
+    <p class="f6 f5-l lh-copy">
+     This project will focus on developing a static site training program from the perspective of a fictional higher education institution called "State University," located in the American Midwest.
+    </p>
   </div>
+</article>
 
-  <ul class="list pl0">
-    {% assign sorted_notes = site.notes | sort: 'date' | reverse %}
-    {% assign sliced_notes = sorted_notes | slice: 0,5 %}
-    {% for note in sliced_notes %}
-     <li class="pa3 pa4-ns mb3">
-       <a href="{{ note.url }}" class="db overflow-hidden image-container">
-         <img src="{{ note.image }}" alt="{{ note.title }}" class="w-100 mb2 note-image">
-       </a>
-       <h2 class="f4 f3-ns"><a class="link dim dark-gray" href="{{ note.url }}">{{ note.title }}</a></h2>
-       <p class="measure-max lh-copy f6 dark-gray tj-ns">{{ note.description | truncatewords: 25, "..." }}</p>
-           <ul class="list pl0 flex flex-wrap">
-             {% assign note_tags = note.tags %}
-             {% for tag in note_tags limit:5 %}
-               <li class="mr2 mb2">
-                 <a href="/tags/{{ tag | slugify }}" class="tag">{{ tag }}</a>
-               </li>
-             {% endfor %}
-             {% if note_tags.size > 5 %}
-               <li class="mr2 mb2"><a href="{{ note.url }}" class="tag">...</a></li>
-             {% endif %}
-           </ul>
-         </li>
-      {% endfor %}
-    </ul>
-  </main>
