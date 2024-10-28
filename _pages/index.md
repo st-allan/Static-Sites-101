@@ -14,7 +14,7 @@ permalink: /
     </p>
     <a class="db center mw6 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
-       href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
+       href="https://ca.braun.com/en-ca">
 
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="assets/braun-static-sites.jpg">
 
@@ -30,7 +30,7 @@ permalink: /
     </p>
     <a class="db center mw6 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
-       href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
+       href="https://designsystem.digital.gov/">
 
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="assets/static-sites2.jpg">
 
@@ -46,7 +46,7 @@ permalink: /
     </p>
     <a class="db center mw6 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
-       href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
+       href="https://www.joshuakaplan.com/">
 
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="assets/static-sites3.jpg">
 
