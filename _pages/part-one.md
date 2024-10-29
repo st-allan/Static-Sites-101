@@ -14,6 +14,8 @@ permalink: /part-one
     The following personas will provide insights into this diversity and serve as an introduction to the project's problem statement.
     </p>
   </div>
+</article>
+<article class="pa2 pa3-ns mw7 center">
   <div>
    <a class="db center mw5 tc black link dim"
    title="Frank Ocean's Blonde on Apple Music"
@@ -57,8 +59,8 @@ permalink: /part-one
     </p>
   </div>
   <div class="pa4">
-   <blockquote class="helvetica ml0 mt0 pl4 black-90 bl bw2 b--near-black">
-     <p class="f5 f4-m f3-l lh-copy measure mt0">
+   <blockquote class="helvetica ml0 mt0 pl4 black-70 bl bw2 b--near-black">
+     <p class="f6 f5-m f4-l lh-copy measure mt0">
       "I need an easy-to-use and affordable platform where I can be hands-on in building my portfolio. It should support multiple formats like SCORM files, graphics, and videos without needing a professional web developer. I want control over how it's presented to showcase my skills while balancing my full-time job and family life.”
      </p>
      <cite class="f6 ttu tracked fs-normal">―Naomi Gonzales</cite>
