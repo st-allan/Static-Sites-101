@@ -59,12 +59,12 @@ permalink: /part-one
      Naomi uses a Windows laptop at work and a MacBook at home. She has 3 to 5 examples of work in different formats—such as SCORM files, PNG and JPEG graphics, and MP4 videos—that she plans to include in her portfolio. She is also considering adding a copy of her resume to showcase her extensive manufacturing experience. If she completes her portfolio in time, she may use it to apply for the internal Associate Instructional Designer position as well.
     </p>
   </div>
-  <div class="pa3">
+  <div class="pa2">
    <blockquote class="helvetica ml0 mt0 pl4 black-70 bl bw2 b--near-black">
-     <p class="f5 b lh-copy measure mt0">
+     <p class="f4 pa2 lh-copy measure mt0">
       "I need an easy-to-use and affordable platform where I can be hands-on in building my portfolio. It should support multiple formats like SCORM files, graphics, and videos without needing a professional web developer. I want control over how it's presented to showcase my skills while balancing my full-time job and family life.”
      </p>
-     <cite class="f6 pa3 ttu tracked fs-normal">―Naomi Gonzales</cite>
+     <cite class="f6 pa3 b ttu tracked fs-normal">―Naomi Gonzales</cite>
    </blockquote>
   </div>
 </article>
