@@ -5,7 +5,7 @@ permalink: /introduction
 ---
 <article class="pa2 pa3-ns mw7 center">
   <div>
-    <h1 class="dark-gray f5 f4-l mt0">introduction</h1>
+    <h1 class="dark-gray f5 f4-l mt0">Introduction</h1>
     <p class="f6 f5-l lh-copy">
       A static site or static page is a type of website that consists of fixed content—typically simple HTML, CSS, and media files (e.g., images, audio, and video)—delivered to the user exactly as it is stored on the server. This content does not change and cannot be modified by viewers, hence the term "static." 
     </p>
