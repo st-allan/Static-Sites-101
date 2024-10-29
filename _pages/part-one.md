@@ -16,6 +16,7 @@ permalink: /part-one
   </div>
 </article>
 <article class="pa2 pa3-ns mw7 center">
+ <h2 class="helvetica dark-gray tc f5 f4-l mt0">Persona 1</h2>
   <div>
    <a class="db center mw5 tc black link dim"
    title="Frank Ocean's Blonde on Apple Music"
@@ -25,7 +26,7 @@ permalink: /part-one
 
    <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
-    <dd class="ml0 b">Persona 1: Naomi Gonzales</dd>
+    <dd class="ml0 b">Naomi Gonzales</dd>
     <dt class="clip">Artist</dt>
     <dd class="ml0 gray">Gender: Female</dd>
     <dd class="ml0 gray">Age: 31</dd>
@@ -118,7 +119,7 @@ permalink: /part-one
      <p class="f6 f5-m f4-l lh-copy measure mt0">
        "I want the freedom to create and fully customize my own blog, without being tied to expensive subscriptions or the limitations of social media platforms. Learning how to build and host my own site excites me, but I need a structured approach to navigate the complexities and ensure the site fits my vision and professional needs.”
      </p>
-     <cite class="f6 ttu tracked fs-normal mt1">―Victoria Marchand</cite>
+     <cite class="f6 ttu tracked fs-normal pt2">―Victoria Marchand</cite>
    </blockquote>
   </div>
 </article>
