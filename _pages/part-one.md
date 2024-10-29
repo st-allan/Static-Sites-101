@@ -216,11 +216,11 @@ permalink: /part-one
 </article>
 <article class="pa3 mw7 center">
   <div>
-    <p class="f6 f5-l b lh-copy">
-      Key Performance Indicators (KPIs):
+    <p class="pa2 f6 f5-l b tc lh-copy">
+      Key Performance Indicators (KPIs)
     </p>
   </div>
-  <section class="mw5 mw7-ns center bg-light-gray pa3 ph5-ns">
+  <section class="mw5 mw7-ns center bg-gray pa3 ph5-ns">
   <h3 class="helvetica f6 f5-l b mt0">Student Portfolio Creation Rate</h3>
   <p class="f6 f5-l lh-copy measure">
     <b>Target:</b> 80% of enrolled students successfully create and deploy their professional portfolios
@@ -232,7 +232,7 @@ permalink: /part-one
     <b>Target:</b> 80% of enrolled students successfully create and deploy their professional portfolios
   </p>
   </section>
-  <section class="mw5 mw7-ns center bg-light-gray pa3 ph5-ns">
+  <section class="mw5 mw7-ns center bg-gray pa3 ph5-ns">
   <h3 class="helvetica f6 f5-l b mt0">Student Portfolio Creation Rate</h3>
   <p class="f6 f5-l lh-copy measure">
     <b>Target:</b> 80% of enrolled students successfully create and deploy their professional portfolios
