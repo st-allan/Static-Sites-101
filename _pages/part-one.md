@@ -17,12 +17,8 @@ permalink: /part-one
 </article>
 <article class="pa2 mw7 center">
  <h2 class="helvetica dark-gray tc f4 f3-l pa3">Persona 1</h2>
-  <div>
-   <a class="db center mw6 tc black link dim"
-   title="Frank Ocean's Blonde on Apple Music"
-   href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
-
-  <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/naomi.jpg">
+  <div class="db center mw6 tc">
+   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/naomi.jpg">
 
    <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
@@ -31,7 +27,6 @@ permalink: /part-one
     <dd class="ml0 gray">Gender: Female</dd>
     <dd class="ml0 gray">Age: 31</dd>
    </dl>
-  </a>
   </div>
   <div>
     <p class="f6 f5-l lh-copy">
@@ -166,5 +161,19 @@ permalink: /part-one
       "I want a flexible and affordable way to build a portfolio that integrates with GitHub and allows me to use my own domain. It needs to be professional but easy to manage, even without formal web development experience.”
      </p>
    </blockquote>
+  </div>
+</article>
+<article class="pa2 mw7 center">
+  <div>
+    <h2 class="helvetica dark-gray tc f4 f3-l mt0">The Why of Learning: Problem Statement</h2>
+    <p class="f6 f5-l b lh-copy">
+      Business Need/Problem Statement:
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Multiple students across different programs at State University (PhD, Industrial Engineering, Instructional Design) need to create professional web portfolios/sites. These students lack structured guidance on building static websites despite having technical capabilities. The university's current curriculum doesn't address this common need, and students are seeking costly alternatives (e.g. Wix, Squarespace, WordPress) or struggling to find cohesive resources, which could impact their academic success and professional transitions.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     By offering a training solution focused on building static websites using free tools (e.g., Jekyll, GitHub Pages), State University can empower students to develop the digital skills they need to create low-cost, fully customizable web portfolios.
+    </p>
   </div>
 </article>
