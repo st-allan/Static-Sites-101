@@ -1,7 +1,7 @@
 ---
 layout: page
 subtitle: Introduction
-permalink: Introduction
+permalink: /introduction
 ---
 <article class="pa2 pa3-ns mw7 center">
   <div>
