@@ -42,10 +42,10 @@ permalink: /introduction
      </dl>
    </a>
     <p class="f6 f5-l lh-copy">
-     Static sites are often used for web-based portfolios, resumes, blogs, and documentation. Today, many platforms offer tools and templates that simplify the process of building a static site. Hosting a static site can even be free on platforms like GitHub (GitHub, 2024) or very inexpensive, as with Amazon Web Services (AWS, 2024).
+     Static sites are often used for web-based portfolios, resumes, blogs, and documentation. Today, many platforms offer tools and templates that simplify the process of building a static site. Hosting a static site can even be free on platforms like <b>GitHub</b> (GitHub, 2024) or very inexpensive, as with <b>Amazon Web Services</b> (AWS, 2024).
     </p>
     <p class="f6 f5-l lh-copy">
-     This project will focus on developing a static site training program from the perspective of a fictional higher education institution called **"State University,"** located in the American Midwest.
+     This project will focus on developing a static site training program from the perspective of a fictional higher education institution called <b>"State University,"</b> located in the American Midwest.
     </p>
     <a class="db pa2 center mw6 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
