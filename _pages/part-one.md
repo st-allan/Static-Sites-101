@@ -162,53 +162,55 @@ permalink: /part-one
     <p class="f6 f5-l lh-copy">
      Multiple students across different programs at State University (PhD, Industrial Engineering, Instructional Design) need to create professional web portfolios/sites. These students lack structured guidance on building static websites despite having technical capabilities. The university's current curriculum doesn't address this common need, and students are seeking costly alternatives (e.g. Wix, Squarespace, WordPress) or struggling to find cohesive resources, which could impact their academic success and professional transitions.
     </p>
-    <p class="f6 f5-l lh-copy">
-     By offering a training solution focused on building static websites using free tools (e.g., Jekyll, GitHub Pages), State University can empower students to develop the digital skills they need to create low-cost, fully customizable web portfolios.
-    </p>
   </div>
   <div class="pa3">
-    <a class="db pa2 center mw6 tc black link dim"
+    <a class="db pa2 center mw7 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
-       href="https://ca.braun.com/en-ca">
+       href="https://www.squarespace.com/pricing?clickid=V7xSLhRBQxyKTokWds3mYW16UkCWF7UdTVtV3A0&gad_source=1">
 
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="assets/benchmark1.jpg">
 
    <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
-    <dd class="ml0">example 1</dd>
+    <dd class="ml0">benchmark 1</dd>
     <dt class="clip">Artist</dt>
-    <dd class="ml0 gray">Braun's Static Product Site</dd>
+    <dd class="ml0 gray">Squarespace Plans & Pricing</dd>
    </dl>
    </a>
  </div>
  <div class="pa3">
-    <a class="db pa2 center mw6 tc black link dim"
+    <a class="db pa2 center mw7 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
-       href="https://ca.braun.com/en-ca">
+       href="https://wordpress.com/pricing/?utm_source=google&utm_campaign=google_search_wpcom_acquisition_brand_us_en&utm_medium=paid_search&keyword=wordpress%20pricing&creative=685174474764&campaignid=20879142434&adgroupid=157130594819&matchtype=e&device=c&network=g&targetid=kwd-12501134651&utm_content=&gad_source=1&gclid=Cj0KCQjwj4K5BhDYARIsAD1Ly2qZMrnebP6cCMTigF45LIQkhxPrrFqCYTT2Y_X6Qx67e74tL_n1AloaAhscEALw_wcB">
 
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="assets/benchmark2.jpg">
 
    <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
-    <dd class="ml0">example 1</dd>
+    <dd class="ml0">benchmark 2</dd>
     <dt class="clip">Artist</dt>
-    <dd class="ml0 gray">Braun's Static Product Site</dd>
+    <dd class="ml0 gray">WordPress Plans & Pricing</dd>
    </dl>
    </a>
  </div>
  <div class="pa3">
-    <a class="db pa2 center mw6 tc black link dim"
+    <a class="db pa2 center mw7 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
-       href="https://ca.braun.com/en-ca">
+       href="https://www.wix.com/plans">
 
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="assets/benchmark3.jpg">
 
    <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
-    <dd class="ml0">example 1</dd>
+    <dd class="ml0">benchmark 3</dd>
     <dt class="clip">Artist</dt>
-    <dd class="ml0 gray">Braun's Static Product Site</dd>
+    <dd class="ml0 gray">Wix Plans & Pricing</dd>
    </dl>
    </a>
+ </div>
+ <div>
+   <p class="f6 f5-l lh-copy">
+     By offering a training solution focused on building static websites using free tools (e.g., Jekyll, GitHub Pages), State University can empower students to develop the digital skills they need to create low-cost, fully customizable web portfolios.
+    </p>
  </div>
 </article>
