@@ -12,7 +12,6 @@ permalink: /part-one
     </p>
   </div>
   <div>
-    <h2 class="helvetica pa3 dark-gray tc f5 f4-l mt0">Persona 1: Naomi Gonzales</h2>
    <a class="db center mw5 tc black link dim"
    title="Frank Ocean's Blonde on Apple Music"
    href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
@@ -21,9 +20,10 @@ permalink: /part-one
 
    <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
-    <dd class="ml0">Blonde</dd>
+    <dd class="ml0">Persona 1: Naomi Gonzales</dd>
     <dt class="clip">Artist</dt>
-    <dd class="ml0 gray">Frank Ocean</dd>
+    <dd class="ml0 gray">Gender: Female</dd>
+    <dd class="ml0 gray">Age: 31</dd>
    </dl>
   </a>
   </div>
