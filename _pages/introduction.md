@@ -6,6 +6,9 @@ permalink: /introduction
 <article class="pa2 pa3-ns mw7 center">
   <div>
     <h1 class="helvetica near-black tc f1 mt0 pa2">Introduction</h1>
+    <div class="dn db-l w-75 pv4 center tc">
+      <img alt="Frank Ocean Blonde Album Cover" src="assets/intro-cover.png">
+    </div>
     <p class="f6 f5-l lh-copy">
       A static site or static page is a type of website that consists of fixed content—typically simple HTML, CSS, and media files (e.g., images, audio, and video)—delivered to the user exactly as it is stored on the server. This content does not change and cannot be modified by viewers, hence the term "static." 
     </p>
