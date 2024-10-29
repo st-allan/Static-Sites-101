@@ -6,7 +6,7 @@ permalink: /part-one
 <article class="pa2 mw7 center">
   <div>
     <h1 class="helvetica near-black tc f1 mt0 pa2">Part 1: LX Design Plan</h1>
-    <h2 class="helvetica dark-gray tc f5 f4-l mt0">The Who of Learning: Learner Personas</h2>
+    <h2 class="helvetica dark-gray tc f4 f3-l mt0">The Who of Learning: Learner Personas</h2>
     <p class="f6 f5-l lh-copy">
       State University offers an extensive catalog of courses, classes, and certifications across a wide range of disciplines, from engineering to social sciences. Its student and professional population is highly diverse. 
     </p>
@@ -62,14 +62,15 @@ permalink: /part-one
   <div class="pa2">
    <blockquote class="helvetica ml0 mt0 pl4 black-70 bl bw2 b--near-black">
      <p class="f4 pa2 lh-copy measure mt0">
-      "I need an easy-to-use and affordable platform where I can be hands-on in building my portfolio. It should support multiple formats like SCORM files, graphics, and videos without needing a professional web developer. I want control over how it's presented to showcase my skills while balancing my full-time job and family life.”
+      "I need an easy-to-use and affordable platform where I can be hands-on in building my portfolio. It should support multiple formats like SCORM files, graphics, and videos without needing a professional web developer. I want control over how it's presented to showcase my skills while balancing my full-time job and family life.” - Naomi Gonzales
      </p>
    </blockquote>
   </div>
 </article>
-<article class="pa2 pa3-ns mw7 center">
+<article class="pa2 mw7 center">
+ <h2 class="helvetica dark-gray tc f4 f3-l pa3">Persona 2</h2>
   <div>
-   <a class="db center mw5 tc black link dim"
+   <a class="db center mw6 tc black link dim"
    title="Frank Ocean's Blonde on Apple Music"
    href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
 
@@ -77,10 +78,10 @@ permalink: /part-one
 
    <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
-    <dd class="ml0 b">Persona 2: Victoria Marchand</dd>
+    <dd class="ml0 b">Victoria Marchand</dd>
     <dt class="clip">Artist</dt>
     <dd class="ml0 gray">Gender: Female</dd>
-    <dd class="ml0 gray">Age: 27</dd>
+    <dd class="ml0 gray">Age: 31</dd>
    </dl>
   </a>
   </div>
@@ -113,12 +114,57 @@ permalink: /part-one
      Her current alternative is to develop and host her own site. This prospect excites her, but she acknowledges that it’s an area where she has little to no practical experience. While trying to learn on her own, Victoria has found plenty of resources, but none that offer a cohesive, structured approach tailored to her specific needs.
     </p>
   </div>
-  <div class="pa4">
+  <div class="pa2">
    <blockquote class="helvetica ml0 mt0 pl4 black-70 bl bw2 b--near-black">
-     <p class="f6 f5-m f4-l lh-copy measure mt0">
-       "I want the freedom to create and fully customize my own blog, without being tied to expensive subscriptions or the limitations of social media platforms. Learning how to build and host my own site excites me, but I need a structured approach to navigate the complexities and ensure the site fits my vision and professional needs.”
+     <p class="f4 pa2 lh-copy measure mt0">
+      "I want the freedom to create and fully customize my own blog, without being tied to expensive subscriptions or the limitations of social media platforms. Learning how to build and host my own site excites me, but I need a structured approach to navigate the complexities and ensure the site fits my vision and professional needs.” - Victoria Marchand
      </p>
-     <cite class="f6 ttu tracked fs-normal pt2">―Victoria Marchand</cite>
+   </blockquote>
+  </div>
+</article>
+<article class="pa2 mw7 center">
+ <h2 class="helvetica dark-gray tc f4 f3-l pa3">Persona 3</h2>
+  <div>
+   <a class="db center mw6 tc black link dim"
+   title="Frank Ocean's Blonde on Apple Music"
+   href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
+
+  <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/jordan.jpg">
+
+   <dl class="mt2 f6 lh-copy">
+    <dt class="clip">Title</dt>
+    <dd class="ml0 b">Jordan Dominguez</dd>
+    <dt class="clip">Artist</dt>
+    <dd class="ml0 gray">Gender: Male</dd>
+    <dd class="ml0 gray">Age: 29</dd>
+   </dl>
+  </a>
+  </div>
+  <div>
+    <p class="f6 f5-l lh-copy">
+     Jordan is an industrial engineer currently studying cloud computing at State’s University. Most of his professional experience comes from working on projects in the vehicle manufacturing industry, but he is eager to break into the tech industry. To get started, he decided to take a few courses focused on tech, particularly in cloud computing. He began with a basic Python programming course at State’s University, and after having a positive experience that aligned with his goals, he enrolled in the Cloud Computing Fundamentals course he's currently taking. Once he finishes, Jordan plans to take an advanced Python course before applying for his first tech role.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Jordan is well aware of the tech industry's reputation for having rigorous hiring processes. He’s heard from peers in his classes that many employers ask for portfolios showcasing applied tech skills.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     So far, Jordan has developed a few solutions in his programming courses and is working on a larger project as part of his Cloud Computing Fundamentals course. He’s eager to showcase these in his portfolio but hasn't yet decided which platform or tools to use.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     While he has some basic familiarity with websites, Jordan has not taken any formal web development courses. Most of his work is stored in a GitHub repository, so he wants a portfolio solution that is compatible with GitHub or can easily integrate his work. He also wants enough freedom to customize the portfolio to his liking. One key priority for Jordan is using his own personalized domain, as he believes it will make his portfolio appear more professional.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     He knows platforms like Wix, WordPress, and Squarespace offer content management and hosting services, but he estimates these could cost up to $200 per year, which he’s hesitant to spend.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Jordan has heard that GitHub offers free hosting for static websites, but he’s not entirely sure what a static site is or how to get started. He feels there’s a lack of structured information to help him evaluate this option and begin building his site.
+    </p>
+  </div>
+  <div class="pa2">
+   <blockquote class="helvetica ml0 mt0 pl4 black-70 bl bw2 b--near-black">
+     <p class="f4 pa2 lh-copy measure mt0">
+      "I want a flexible and affordable way to build a portfolio that integrates with GitHub and allows me to use my own domain. It needs to be professional but easy to manage, even without formal web development experience.” - Jordan Dominguez
+     </p>
    </blockquote>
   </div>
 </article>
