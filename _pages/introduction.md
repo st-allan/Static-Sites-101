@@ -12,9 +12,6 @@ permalink: /introduction
     <p class="f6 f5-l lh-copy">
       A static site or static page is a type of website that consists of fixed content—typically simple HTML, CSS, and media files (e.g., images, audio, and video)—delivered to the user exactly as it is stored on the server. This content does not change and cannot be modified by viewers, hence the term "static." 
     </p>
-    <p class="f6 f5-l lh-copy">
-      For example, a simple blog with text and images is static, while an e-commerce or social media site, where users can alter available stock or create and display posts, is dynamic.
-    </p>
     <a class="db pa2 center mw6 tc black link dim"
        title="Frank Ocean's Blonde on Apple Music"
        href="https://ca.braun.com/en-ca">
@@ -28,6 +25,9 @@ permalink: /introduction
     <dd class="ml0 gray">Braun's Static Product Site</dd>
      </dl>
    </a>
+    <p class="f6 f5-l lh-copy">
+      For example, a simple blog with text and images is static, while an e-commerce or social media site, where users can alter available stock or create and display posts, is dynamic.
+    </p>
     <p class="f6 f5-l lh-copy">
       Due to their simplicity, static websites are easy to set up and launch. Content is created and published once, and maintaining these sites usually involves editing basic HTML or CSS files.
     </p>
