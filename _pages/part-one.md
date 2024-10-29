@@ -221,10 +221,21 @@ permalink: /part-one
     </p>
   </div>
   <section class="mw5 mw7-ns center bg-light-gray pa3 ph5-ns">
-  <h1 class="mt0">Centered Container</h1>
-  <p class="lh-copy measure">
-    Combine width or max-width values with the center class to create a centered
-    container for your content.
+  <h3 class="helvetica f6 f5-l b mt0">Student Portfolio Creation Rate</h3>
+  <p class="f6 f5-l lh-copy measure">
+    <b>Target:</b> 80% of enrolled students successfully create and deploy their professional portfolios
+  </p>
+  </section>
+  <section class="mw5 mw7-ns center bg-light-gray pa3 ph5-ns">
+  <h3 class="helvetica f6 f5-l b mt0">Student Portfolio Creation Rate</h3>
+  <p class="f6 f5-l lh-copy measure">
+    <b>Target:</b> 80% of enrolled students successfully create and deploy their professional portfolios
+  </p>
+  </section>
+  <section class="mw5 mw7-ns center bg-light-gray pa3 ph5-ns">
+  <h3 class="helvetica f6 f5-l b mt0">Student Portfolio Creation Rate</h3>
+  <p class="f6 f5-l lh-copy measure">
+    <b>Target:</b> 80% of enrolled students successfully create and deploy their professional portfolios
   </p>
   </section>
 </article>
