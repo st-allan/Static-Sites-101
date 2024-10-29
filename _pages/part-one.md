@@ -11,11 +11,13 @@ permalink: /part-one
       State University offers an extensive catalog of courses, classes, and certifications across a wide range of disciplines, from engineering to social sciences. Its student and professional population is highly diverse. The following personas will provide insights into this diversity and serve as an introduction to the project's problem statement.
     </p>
   </div>
-  <a class="db center mw5 tc black link dim"
+  <div>
+    <h2 class="dark-gray tc f5 f4-l mt0">Persona 1: Naomi Gonzales</h2>
+   <a class="db center mw5 tc black link dim"
    title="Frank Ocean's Blonde on Apple Music"
    href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
 
-   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="https://s3-us-west-1.amazonaws.com/tachyonsio/img/Blonde-Frank_Ocean.jpeg">
+  <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="https://s3-us-west-1.amazonaws.com/tachyonsio/img/Blonde-Frank_Ocean.jpeg">
 
    <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
@@ -24,4 +26,5 @@ permalink: /part-one
     <dd class="ml0 gray">Frank Ocean</dd>
    </dl>
   </a>
+  </div>
 </article>
