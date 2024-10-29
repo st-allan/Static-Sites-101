@@ -18,7 +18,7 @@ permalink: /part-one
 <article class="pa2 mw7 center">
  <h2 class="helvetica dark-gray tc f5 f4-l pa3">Persona 1</h2>
   <div>
-   <a class="db center mw5 tc black link dim"
+   <a class="db center mw6 tc black link dim"
    title="Frank Ocean's Blonde on Apple Music"
    href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
 
@@ -64,7 +64,6 @@ permalink: /part-one
      <p class="f4 pa2 lh-copy measure mt0">
       "I need an easy-to-use and affordable platform where I can be hands-on in building my portfolio. It should support multiple formats like SCORM files, graphics, and videos without needing a professional web developer. I want control over how it's presented to showcase my skills while balancing my full-time job and family life.”
      </p>
-     <cite class="f6 pa3 b ttu tracked fs-normal">―Naomi Gonzales</cite>
    </blockquote>
   </div>
 </article>
