@@ -171,7 +171,7 @@ permalink: /part-one
        title="Frank Ocean's Blonde on Apple Music"
        href="https://ca.braun.com/en-ca">
 
-   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="assets/braun-static-sites.jpg">
+   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="assets/benchmark1.jpg">
 
    <dl class="mt2 f6 lh-copy">
     <dt class="clip">Title</dt>
@@ -181,5 +181,34 @@ permalink: /part-one
    </dl>
    </a>
  </div>
+ <div class="pa3">
+    <a class="db pa2 center mw6 tc black link dim"
+       title="Frank Ocean's Blonde on Apple Music"
+       href="https://ca.braun.com/en-ca">
 
+   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="assets/benchmark2.jpg">
+
+   <dl class="mt2 f6 lh-copy">
+    <dt class="clip">Title</dt>
+    <dd class="ml0">example 1</dd>
+    <dt class="clip">Artist</dt>
+    <dd class="ml0 gray">Braun's Static Product Site</dd>
+   </dl>
+   </a>
+ </div>
+ <div class="pa3">
+    <a class="db pa2 center mw6 tc black link dim"
+       title="Frank Ocean's Blonde on Apple Music"
+       href="https://ca.braun.com/en-ca">
+
+   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="assets/benchmark3.jpg">
+
+   <dl class="mt2 f6 lh-copy">
+    <dt class="clip">Title</dt>
+    <dd class="ml0">example 1</dd>
+    <dt class="clip">Artist</dt>
+    <dd class="ml0 gray">Braun's Static Product Site</dd>
+   </dl>
+   </a>
+ </div>
 </article>
