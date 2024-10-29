@@ -1,7 +1,7 @@
 ---
 layout: default-index
 subtitle: Home
-permalink: /
+permalink: /home
 ---
 <div class="dn db-l w-75 pv4 center tc">
   <img alt="Frank Ocean Blonde Album Cover" src="assets/cover-artwork.png">
