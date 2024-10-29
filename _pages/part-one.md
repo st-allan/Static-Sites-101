@@ -62,7 +62,7 @@ permalink: /part-one
   <div class="pa2">
    <blockquote class="helvetica ml0 mt0 pl4 black-70 bl bw2 b--near-black">
      <p class="f4 pa2 lh-copy measure mt0">
-      "I need an easy-to-use and affordable platform where I can be hands-on in building my portfolio. It should support multiple formats like SCORM files, graphics, and videos without needing a professional web developer. I want control over how it's presented to showcase my skills while balancing my full-time job and family life.” - Naomi Gonzales
+      "I need an easy-to-use and affordable platform where I can be hands-on in building my portfolio. It should support multiple formats like SCORM files, graphics, and videos without needing a professional web developer. I want control over how it's presented to showcase my skills while balancing my full-time job and family life.”
      </p>
    </blockquote>
   </div>
@@ -117,7 +117,7 @@ permalink: /part-one
   <div class="pa2">
    <blockquote class="helvetica ml0 mt0 pl4 black-70 bl bw2 b--near-black">
      <p class="f4 pa2 lh-copy measure mt0">
-      "I want the freedom to create and fully customize my own blog, without being tied to expensive subscriptions or the limitations of social media platforms. Learning how to build and host my own site excites me, but I need a structured approach to navigate the complexities and ensure the site fits my vision and professional needs.” - Victoria Marchand
+      "I want the freedom to create and fully customize my own blog, without being tied to expensive subscriptions or the limitations of social media platforms. Learning how to build and host my own site excites me, but I need a structured approach to navigate the complexities and ensure the site fits my vision and professional needs.”
      </p>
    </blockquote>
   </div>
@@ -163,7 +163,7 @@ permalink: /part-one
   <div class="pa2">
    <blockquote class="helvetica ml0 mt0 pl4 black-70 bl bw2 b--near-black">
      <p class="f4 pa2 lh-copy measure mt0">
-      "I want a flexible and affordable way to build a portfolio that integrates with GitHub and allows me to use my own domain. It needs to be professional but easy to manage, even without formal web development experience.” - Jordan Dominguez
+      "I want a flexible and affordable way to build a portfolio that integrates with GitHub and allows me to use my own domain. It needs to be professional but easy to manage, even without formal web development experience.”
      </p>
    </blockquote>
   </div>
