@@ -67,3 +67,58 @@ permalink: /part-one
    </blockquote>
   </div>
 </article>
+<article class="pa2 pa3-ns mw7 center">
+  <div>
+   <a class="db center mw5 tc black link dim"
+   title="Frank Ocean's Blonde on Apple Music"
+   href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
+
+  <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/victoria.jpg">
+
+   <dl class="mt2 f6 lh-copy">
+    <dt class="clip">Title</dt>
+    <dd class="ml0 b">Persona 2: Victoria Marchand</dd>
+    <dt class="clip">Artist</dt>
+    <dd class="ml0 gray">Gender: Female</dd>
+    <dd class="ml0 gray">Age: 27</dd>
+   </dl>
+  </a>
+  </div>
+  <div>
+    <p class="f6 f5-l lh-copy">
+     Victoria is a PhD student in urban planning at State’s University. She started her program last summer. Prior to that, she worked as a consultant for an urban planning firm in her native France.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     During her time as a consultant, Victoria participated in and eventually led several urban planning projects across the globe. In her final year as a consultant, she traveled to over 25 cities across four continents, either for projects or professional events. During these travels, Victoria documented her reflections, lessons learned, and ideas in numerous notes, which she has saved on her MacBook M3 Pro.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Although she no longer travels for work, Victoria has been involved in field trips and other research activities as part of her PhD program at State’s University. She continues to capture her reflections in her notes.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Since starting her PhD, Victoria has also adopted new tools for her note-taking, such as knowledge management principles to structure her research, and software like Obsidian to create templates and organize her notes into categories. This approach has enabled her to manage and visualize all her notes—whether from her professional career, PhD research, or personal life—in one centralized place.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     One of the challenges she faced while learning how to use knowledge management tools like Obsidian was learning the Markdown (.md) syntax used to store content in the notes. However, after converting a few of her old Microsoft Word notes into the new format, she quickly became comfortable with it. Victoria now believes that the benefits of centralizing her notes far outweigh the initial learning curve.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Now three months into her PhD program, with at least four more years before graduation, Victoria has been thinking about ways to remain relevant in the urban planning field. She understands the importance of staying active on social media to maintain her professional network, but she’s also considering another channel to share the content she has been creating in her notes over the years—something like a blog. Ideally, she wants a platform she can fully control and manage, giving her freedom from social media algorithms and regulations.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     She is considering starting her own blog but hasn’t yet decided how to proceed or which platform to use.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Although content management platforms exist for this purpose, their subscription models and pricing options are something she wants to avoid—especially since more customization often comes with higher costs, which could add up significantly over the remaining four years of her studies.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Her current alternative is to develop and host her own site. This prospect excites her, but she acknowledges that it’s an area where she has little to no practical experience. While trying to learn on her own, Victoria has found plenty of resources, but none that offer a cohesive, structured approach tailored to her specific needs.
+    </p>
+  </div>
+  <div class="pa4">
+   <blockquote class="helvetica ml0 mt0 pl4 black-70 bl bw2 b--near-black">
+     <p class="f6 f5-m f4-l lh-copy measure mt0">
+       "I want the freedom to create and fully customize my own blog, without being tied to expensive subscriptions or the limitations of social media platforms. Learning how to build and host my own site excites me, but I need a structured approach to navigate the complexities and ensure the site fits my vision and professional needs.”
+     </p>
+     <cite class="f6 ttu tracked fs-normal mt1">―Victoria Marchand</cite>
+   </blockquote>
+  </div>
+</article>
