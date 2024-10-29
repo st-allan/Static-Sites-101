@@ -16,7 +16,7 @@ permalink: /part-one
   </div>
 </article>
 <article class="pa2 mw7 center">
- <h2 class="helvetica dark-gray tc f5 f4-l pa3">Persona 1</h2>
+ <h2 class="helvetica dark-gray tc f4 f3-l pa3">Persona 1</h2>
   <div>
    <a class="db center mw6 tc black link dim"
    title="Frank Ocean's Blonde on Apple Music"
