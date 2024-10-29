@@ -1,6 +1,6 @@
 ---
 layout: default-index
-subtitle: blog.
+subtitle: Home
 permalink: /
 ---
 <div class="dn db-l w-75 pv4 center tc">
