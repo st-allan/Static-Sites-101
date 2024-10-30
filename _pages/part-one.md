@@ -250,12 +250,13 @@ permalink: /part-one
   </div>
   </article>
   <article class="center mw5 mw6-ns br3 hidden ba b--black-10 mv4">
-  <h1 class="f4 bg-near-white br3 br--top black-60 mv0 pv2 ph3">Title of card</h1>
+  <h1 class="f4 bg-near-white br3 br--top black-60 mv0 pv2 ph3">Entry-Level of Participants</h1>
   <div class="pa3 bt b--black-10">
     <p class="f6 f5-ns lh-copy measure">
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-      vero eos et accusam et justo duo dolores et ea rebum.
+      <b>Level 1 - Remembering:</b> Most students know what websites are and may have basic awareness of platforms like Wix, Squarespace, or GitHub, but they lack deeper knowledge about static sites and related tools like Jekyll and GitHub Pages.
+    </p>
+    <p class="f6 f5-ns lh-copy measure">
+     <b>Level 2 - Understanding:</b> Some participants may understand basic concepts like hosting, portfolios, or programming syntax (from related courses like Python), but they struggle to connect this knowledge to website development or free, customizable platforms.
     </p>
   </div>
 </article>
