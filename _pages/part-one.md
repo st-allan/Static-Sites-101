@@ -274,7 +274,7 @@ permalink: /part-one
     </p>
   </div>
 </article>
-<article class="pa3 mw7 center">
+<article class="pa2 mw7 center">
   <div>
     <p class="f4 f3-l b tc lh-copy">
       Learning Outcomes
@@ -288,7 +288,7 @@ permalink: /part-one
       By the end of the first module, participants will be able to describe the key differences between static and dynamic websites (Understanding), including the pros and cons of using static site generators like Jekyll, with 80% accuracy, as measured by a quiz.</span>
   </li>
   <li class="pa3 pa4-ns bb b--black-10">
-    <b class="db f4 mb1">
+    <b class="db pa2 f4 mb1">
       Learning Outcome 2: Identify Tools for Static Site Development
     </b>
     <span class="f5 center db lh-copy measure">
@@ -296,7 +296,7 @@ permalink: /part-one
     </span>
   </li>
   <li class="pa3 pa4-ns bb b--black-10">
-    <b class="db f4 mb1">
+    <b class="db pa2 f4 mb1">
       Learning Outcome 3: Demonstrate the Ability to Set Up a Jekyll-Based Static Site
     </b>
     <span class="f5 center db lh-copy measure">
@@ -304,7 +304,7 @@ permalink: /part-one
     </span>
   </li>
   <li class="pa3 pa4-ns bb b--black-10">
-    <b class="db f4 mb1">
+    <b class="db pa2 f4 mb1">
       Learning Outcome 4: Analyze Portfolio Design Options for Customization
     </b>
     <span class="f5 center db lh-copy measure">
@@ -312,7 +312,7 @@ permalink: /part-one
     </span>
   </li>
   <li class="pa3 pa4-ns bb b--black-10">
-    <b class="db f4 mb1">
+    <b class="db pa2 f4 mb1">
       Learning Outcome 5: Evaluate the Cost-Effectiveness of Different Web Hosting Platforms
     </b>
     <span class="f5 center db lh-copy measure">
@@ -320,7 +320,7 @@ permalink: /part-one
     </span>
   </li>
   <li class="pa3 pa4-ns">
-    <b class="db f4 mb1">
+    <b class="db pa2 f4 mb1">
       Learning Outcome 6: Create and Deploy a Fully Functional Web Portfolio
     </b>
     <span class="f5 center db lh-copy measure">
