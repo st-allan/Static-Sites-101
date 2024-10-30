@@ -250,13 +250,27 @@ permalink: /part-one
   </div>
   </article>
   <article class="center mw5 mw6-ns br3 hidden ba b--black-10 mv4">
-  <h1 class="f4 bg-near-white br3 br--top black-60 mv0 pv2 ph3">Entry-Level of Participants</h1>
+  <h1 class="f4 bg-near-white br3 br--top black-60 mv0 pv2 ph3">Entry Level of Participants</h1>
   <div class="pa3 bt b--black-10">
     <p class="f6 f5-ns lh-copy measure">
       <b>Level 1 - Remembering:</b> Most students know what websites are and may have basic awareness of platforms like Wix, Squarespace, or GitHub, but they lack deeper knowledge about static sites and related tools like Jekyll and GitHub Pages.
     </p>
     <p class="f6 f5-ns lh-copy measure">
      <b>Level 2 - Understanding:</b> Some participants may understand basic concepts like hosting, portfolios, or programming syntax (from related courses like Python), but they struggle to connect this knowledge to website development or free, customizable platforms.
+    </p>
+  </div>
+</article>
+<article class="center mw5 mw6-ns br3 hidden ba b--black-10 mv4">
+  <h1 class="f4 bg-light-gray br3 br--top black-60 mv0 pv2 ph3">Target Level for Participants</h1>
+  <div class="pa3 bt b--black-10">
+    <p class="f6 f5-ns lh-copy measure">
+      <b>Level 4 - Analyzing:</b> Students should be able to analyze the benefits and limitations of different web platforms (free vs. paid), and decide which platform is best suited for their portfolio needs. They should be able to differentiate between static and dynamic websites and how different tools (Jekyll, GitHub Pages) work together.
+    </p>
+    <p class="f6 f5-ns lh-copy measure">
+     <b>Level 5 - Evaluating:</b> After the training, students should be able to evaluate their portfolio's design and functionality, deciding on customizations and optimizations that align with their professional goals. They will also need to assess cost-effectiveness and decide if the free solutions meet their needs.
+    </p>
+    <p class="f6 f5-ns lh-copy measure">
+     <b>Level 6 - Creating:</b> The ultimate goal is for students to create fully functional web portfolios from scratch using Jekyll and GitHub Pages. They should be able to customize, update, and manage these sites independently.
     </p>
   </div>
 </article>
