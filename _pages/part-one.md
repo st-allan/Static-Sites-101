@@ -283,9 +283,9 @@ permalink: /part-one
 </article>
 <ul class="list center tc pl0">
   <li class="pa3 pa4-ns bb b--black-10">
-    <b class="db f3 mb1">LO1: Understand the Concept of Static Websites</b>
-    <span class="f5 tc db lh-copy measure">
-      By the end of the training, participants will be able to describe the key differences between static and dynamic websites (Understanding), including the pros and cons of using static site generators like Jekyll, with 90% accuracy, as measured by a post-training quiz.</span>
+    <b class="db f4 mb1">Learning Objective 1: Understand the Concept of Static Websites</b>
+    <span class="f5 center db lh-copy measure">
+      By the end of the first module, participants will be able to describe the key differences between static and dynamic websites (Understanding), including the pros and cons of using static site generators like Jekyll, with 80% accuracy, as measured by a quiz.</span>
   </li>
   <li class="pa3 pa4-ns bb b--black-10">
     <b class="db f3 mb1">
