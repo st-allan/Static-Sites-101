@@ -220,22 +220,22 @@ permalink: /part-one
       Key Performance Indicators (KPIs)
     </p>
   </div>
-  <section class="mw5 mw7-ns center bg-gray pa3 ph5-ns">
+  <section class="mw5 mw7-ns center bg-moon-gray pa3 ph5-ns">
   <h3 class="helvetica f6 f5-l b mt0">Student Portfolio Creation Rate</h3>
-  <p class="f6 f5-l lh-copy measure">
-    <b>Target:</b> 80% of enrolled students successfully create and deploy their professional portfolios
+  <p class="helvetica f6 f5-l lh-copy measure">
+    <b>Target:</b> 80% of enrolled students successfully create and deploy their professional portfolios.
   </p>
   </section>
   <section class="mw5 mw7-ns center bg-light-gray pa3 ph5-ns">
-  <h3 class="helvetica f6 f5-l b mt0">Student Portfolio Creation Rate</h3>
-  <p class="f6 f5-l lh-copy measure">
-    <b>Target:</b> 80% of enrolled students successfully create and deploy their professional portfolios
+  <h3 class="helvetica f6 f5-l b mt0">Career Advancement</h3>
+  <p class="helvetica f6 f5-l lh-copy measure">
+    <b>Target:</b> 40% of students securing internships, jobs, or other professional opportunities report using their portfolio in successful job applications.
   </p>
   </section>
-  <section class="mw5 mw7-ns center bg-gray pa3 ph5-ns">
-  <h3 class="helvetica f6 f5-l b mt0">Student Portfolio Creation Rate</h3>
-  <p class="f6 f5-l lh-copy measure">
-    <b>Target:</b> 80% of enrolled students successfully create and deploy their professional portfolios
+  <section class="mw5 mw7-ns center bg-moon-gray pa3 ph5-ns">
+  <h3 class="helvetica f6 f5-l b mt0">Cross-Program Technical Skill Development</h3>
+  <p class="helvetica f6 f5-l lh-copy measure">
+    <b>Target:</b> 10% increase in non-STEM students enrolling in complementary technical courses.
   </p>
   </section>
 </article>
