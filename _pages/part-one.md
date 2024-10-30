@@ -281,17 +281,17 @@ permalink: /part-one
     </p>
   </div>
 </article>
-<ul class="list center pl0">
+<ul class="list center pl0 mw7">
   <li class="pa3 pa4-ns bb b--black-10">
     <b class="db pa2 f4 mb1">Learning Outcome 1: Understand the Concept of Static Websites</b>
-    <span class="f5 center db lh-copy measure">
+    <span class="f5 db lh-copy measure">
       Understanding: By the end of the first module, participants will be able to describe the key differences between static and dynamic websites, including the pros and cons of using static site generators like Jekyll, with 80% accuracy, as measured by a quiz.</span>
   </li>
   <li class="pa3 pa4-ns bb b--black-10">
     <b class="db pa2 f4 mb1">
       Learning Outcome 2: Identify Tools for Static Site Development
     </b>
-    <span class="f5 center db lh-copy measure">
+    <span class="f5 db lh-copy measure">
       Remembering: Within the first module of the course, participants will be able to identify at least three free tools (e.g., Jekyll, GitHub Pages, Markdown) used for developing and hosting static websites.
     </span>
   </li>
@@ -299,7 +299,7 @@ permalink: /part-one
     <b class="db pa2 f4 mb1">
       Learning Outcome 3: Demonstrate the Ability to Set Up a Jekyll-Based Static Site
     </b>
-    <span class="f5 center db lh-copy measure">
+    <span class="f5 db lh-copy measure">
       Applying: By the end of module seven of the training, participants will successfully set up a Jekyll-based static website hosted on GitHub Pages, following step-by-step instructions.
     </span>
   </li>
@@ -307,7 +307,7 @@ permalink: /part-one
     <b class="db pa2 f4 mb1">
       Learning Outcome 4: Analyze Portfolio Design Options for Customization
     </b>
-    <span class="f5 center db lh-copy measure">
+    <span class="f5 db lh-copy measure">
       Analyzing: By the end of the fourth module, participants will be able to analyze and compare at least two design themes for their portfolio websites, choosing one that best suits their professional needs and providing justification in a short written summary.
     </span>
   </li>
@@ -315,7 +315,7 @@ permalink: /part-one
     <b class="db pa2 f4 mb1">
       Learning Outcome 5: Evaluate the Cost-Effectiveness of Different Web Hosting Platforms
     </b>
-    <span class="f5 center db lh-copy measure">
+    <span class="f5 db lh-copy measure">
       Evaluating: By the end of the training, participants will evaluate and compare the cost of self-hosting vs. using paid platforms like Wix or Squarespace, and provide a cost-benefit analysis with at least 70% of participants selecting an optimal solution for their portfolio based on personalized needs.
     </span>
   </li>
@@ -323,7 +323,7 @@ permalink: /part-one
     <b class="db pa2 f4 mb1">
       Learning Outcome 6: Create and Deploy a Fully Functional Web Portfolio
     </b>
-    <span class="f5 center db lh-copy measure">
+    <span class="f5 db lh-copy measure">
     Creating: By the end of the course, participants will create and deploy a fully functional, professional web portfolio, using Jekyll and GitHub Pages, including customizations and personal branding elements, with 80% of participants successfully publishing their site online.
     </span>
   </li>
