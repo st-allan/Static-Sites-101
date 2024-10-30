@@ -239,4 +239,25 @@ permalink: /part-one
   </p>
   </section>
 </article>
+<article class="pa3 mw7 center">
+  <div>
+    <p class="f6 f5-l b lh-copy">
+      Learning Gap:
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The gap is between students' current basic understanding of websites and their ability to design, develop, and manage a cost-effective static site. The training program would help bridge this by moving them from recognizing and understanding basic concepts to analyzing, evaluating, and creating web portfolios.
+    </p>
+  </div>
+  </article>
+  <article class="center mw5 mw6-ns br3 hidden ba b--black-10 mv4">
+  <h1 class="f4 bg-near-white br3 br--top black-60 mv0 pv2 ph3">Title of card</h1>
+  <div class="pa3 bt b--black-10">
+    <p class="f6 f5-ns lh-copy measure">
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+      vero eos et accusam et justo duo dolores et ea rebum.
+    </p>
+  </div>
+</article>
+
 
