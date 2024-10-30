@@ -281,7 +281,7 @@ permalink: /part-one
     </p>
   </div>
 </article>
-<ul class="list center tc pl0">
+<ul class="list center pl0">
   <li class="pa3 pa4-ns bb b--black-10">
     <b class="db pa2 f4 mb1">Learning Outcome 1: Understand the Concept of Static Websites</b>
     <span class="f5 center db lh-copy measure">
