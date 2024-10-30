@@ -216,7 +216,7 @@ permalink: /part-one
 </article>
 <article class="pa3 mw7 center">
   <div>
-    <p class="pa2 f6 f5-l b tc lh-copy">
+    <p class="pa2 f4 f3-l b tc lh-copy">
       Key Performance Indicators (KPIs)
     </p>
   </div>
