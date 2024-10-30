@@ -242,7 +242,7 @@ permalink: /part-one
 <article class="pa3 mw7 center">
   <div>
     <p class="f6 f5-l b lh-copy">
-      Learning Gap:
+      Learning Gap & Learning Outcomes:
     </p>
     <p class="f6 f5-l lh-copy">
      The gap is between students' current basic understanding of websites and their ability to design, develop, and manage a cost-effective static site. The training program would help bridge this by moving them from recognizing and understanding basic concepts to analyzing, evaluating, and creating web portfolios.
@@ -276,72 +276,55 @@ permalink: /part-one
 </article>
 <article class="pa3 mw7 center">
   <div>
-    <p class="pa2 f4 f3-l b tc lh-copy">
+    <p class="f4 f3-l b tc lh-copy">
       Learning Outcomes
     </p>
   </div>
 </article>
 <ul class="list pl0">
   <li class="pa3 pa4-ns bb b--black-10">
-    <b class="db f3 mb1">alignment</b>
+    <b class="db f3 mb1">1: Understand the Concept of Static Websites</b>
     <span class="f5 db lh-copy measure">
-      The positioning of text within the page margins. Alignment can be flush left, flush right, justified, or centered. Flush left and flush right are sometimes referred to as left justified and right justified.</span>
+      By the end of the training, participants will be able to describe the key differences between static and dynamic websites (Understanding), including the pros and cons of using static site generators like Jekyll, with 90% accuracy, as measured by a post-training quiz.</span>
   </li>
   <li class="pa3 pa4-ns bb b--black-10">
     <b class="db f3 mb1">
-      ascender
+      2: Identify Tools for Static Site Development
     </b>
     <span class="f5 db lh-copy measure">
-      The part of lowercase letters (such as k, b, and d) that ascends above the
-      x-height of the other lowercase letters in a face.
+      Within the first module of the course, participants will be able to identify at least three free tools (e.g., Jekyll, GitHub Pages, Markdown) used for developing and hosting static websites (Remembering), with an 85% success rate, through a tool identification exercise.
     </span>
   </li>
   <li class="pa3 pa4-ns bb b--black-10">
     <b class="db f3 mb1">
-      baseline
+      3: Demonstrate the Ability to Set Up a Jekyll-Based Static Site
     </b>
     <span class="f5 db lh-copy measure">
-      The imaginary line on which the majority of the characters in a typeface rest.
+      By the third week of the training, participants will successfully set up a Jekyll-based static website hosted on GitHub Pages (Applying), following step-by-step instructions, with 100% completion of setup tasks.
     </span>
   </li>
   <li class="pa3 pa4-ns bb b--black-10">
     <b class="db f3 mb1">
-      body text
+      4: Analyze Portfolio Design Options for Customization
     </b>
     <span class="f5 db lh-copy measure">
-      The paragraphs in a document that make up the bulk of its content. The body text should be set in an appropriate and easy-to-read face, typically at 10- or 12-point size.
+      By the end of the fourth week, participants will be able to analyze and compare at least two design themes for their portfolio websites (Analyzing), choosing one that best suits their professional needs and providing justification in a short written summary, with 80% of participants receiving a 'satisfactory' grade from an instructor review.
     </span>
   </li>
   <li class="pa3 pa4-ns bb b--black-10">
     <b class="db f3 mb1">
-      boldface
+      5: Evaluate the Cost-Effectiveness of Different Web Hosting Platforms
     </b>
     <span class="f5 db lh-copy measure">
-      A typeface that has been enhanced by rendering it in darker, thicker strokes so that it will stand out on the page. Headlines that need emphasis should be boldface. Italics are preferable for emphasis in body text.
-    </span>
-  </li>
-  <li class="pa3 pa4-ns bb b--black-10">
-    <b class="db f3 mb1">
-      bullet
-    </b>
-    <span class="f5 db lh-copy measure">
-    A dot or other special character placed at the left of items in a list to show that they are individual, but related, points.
-    </span>
-  </li>
-  <li class="pa3 pa4-ns bb b--black-10">
-    <b class="db f3 mb1">
-cap height
-    </b>
-    <span class="f5 db lh-copy measure">
-    The height from the baseline to the top of the uppercase letters in a font. This may or may not be the same as the height of ascenders. Cap height is used in some systems to measure the type size.
+      By the end of the training, participants will evaluate and compare the cost of self-hosting vs. using paid platforms like Wix or Squarespace (Evaluating), and provide a cost-benefit analysis with at least 70% of participants selecting an optimal solution for their portfolio based on personalized needs.
     </span>
   </li>
   <li class="pa3 pa4-ns">
     <b class="db f3 mb1">
-      centered
+      6: Create and Deploy a Fully Functional Web Portfolio
     </b>
     <span class="f5 db lh-copy measure">
-    Text placed at an equal distance from the left and right margins. Headlines are often centered. It is generally not good to mix centered text with flush left or flush right text.
+    By the end of the course, participants will create and deploy a fully functional, professional web portfolio (Creating), using Jekyll and GitHub Pages, including customizations and personal branding elements, with 90% of participants successfully publishing their site online.
     </span>
   </li>
 </ul>
