@@ -338,6 +338,9 @@ permalink: /part-one
      Multiple students across different programs at State University (PhD, Industrial Engineering, Instructional Design) need to create professional web portfolios/sites. These students lack structured guidance on building static websites despite having technical capabilities. The university's current curriculum doesn't address this common need, and students are seeking costly alternatives (e.g. Wix, Squarespace, WordPress) or struggling to find cohesive resources, which could impact their academic success and professional transitions.
     </p>
   </div>
+  <div class="db center mw6 tc">
+   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-1.png">
+  </div>
 
 
 
