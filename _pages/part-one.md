@@ -341,15 +341,28 @@ permalink: /part-one
   <div class="db mw7 center tc">
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-1.png">
   </div>
-   <div class="db mw7 center tc">
+  <div class="db mw7 center tc">
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-2.png">
   </div>
-   <div class="db mw7 center tc">
+  <div class="db mw7 center tc">
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-3.png">
   </div>
-   <div class="db mw7 center tc">
+  <div class="db mw7 center tc">
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-4.png">
   </div>
+  <div class="db mw7 center tc">
+   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-5.png">
+  </div>
+  <div class="db mw7 center tc">
+   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-6.png">
+  </div>
+  <div class="db mw7 center tc">
+   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-7.png">
+  </div>
+  <div class="db mw7 center tc">
+   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-8.png">
+  </div>
+
 
 
 
