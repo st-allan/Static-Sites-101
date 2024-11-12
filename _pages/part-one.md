@@ -423,7 +423,10 @@ permalink: /part-one
    <img class="db mw6" alt="Frank Ocean Blonde Album Cover" src="/assets/blocks.png">
   </div>
   <p class="f6 f5-l lh-copy">
-     The formats within these elements include <b>eLearning courses (one for each module in the framework), screencasts that walk through the step-by-step process of creating a static site, interactive PDFs or downloadable "cheat sheets" with reference materials, and quizzes.</b> Each module will begin with a short three-question pre-assessment and conclude with a comprehensive ten-question evaluation.
+     The formats within these elements include <b>eLearning courses (one for each module in the framework), screencasts that walk through the step-by-step process of creating a static site, interactive PDFs or downloadable "cheat sheets" with reference materials, and quizzes.</b>
+  </p>
+  <p class="f6 f5-l lh-copy">
+     Each module will begin with a short three-question pre-assessment and conclude with a comprehensive ten-question evaluation.
   </p>
 </article>
 <article class="pa3 mw7 center">
