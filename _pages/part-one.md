@@ -6,9 +6,12 @@ permalink: /part-one
 <article class="pa2 mw7 center">
   <div>
     <h1 class="helvetica near-black tc f1 mt0 pa2">Part 1: LX Design Plan</h1>
-    <h2 class="helvetica dark-gray tc f4 f3-l mt0">The Who of Learning: Learner Personas</h2>
+    <h2 class="helvetica dark-gray tc f4 f3-l mt0">The Who of Learning</h2>
     <p class="f6 f5-l lh-copy">
       State University offers an extensive catalog of courses, classes, and certifications across a wide range of disciplines, from engineering to social sciences. Its student and professional population is highly diverse. 
+    </p>
+    <p class="f6 f5-l b lh-copy">
+      Learner Personas:
     </p>
     <p class="f6 f5-l lh-copy">
     The following personas will provide insights into this diversity and serve as an introduction to the project's problem statement.
@@ -155,7 +158,7 @@ permalink: /part-one
 </article>
 <article class="pa3 mw7 center">
   <div>
-    <h2 class="helvetica pa3 dark-gray tc f4 f3-l mt0">The Why of Learning: Problem Statement</h2>
+    <h2 class="helvetica pa3 dark-gray tc f4 f3-l mt0">The Why of Learning</h2>
     <p class="f6 f5-l b lh-copy">
       Business Need/Problem Statement:
     </p>
@@ -330,15 +333,18 @@ permalink: /part-one
 </ul>
 <article class="pa3 mw7 center">
   <div>
-    <h2 class="helvetica pa3 dark-gray tc f4 f3-l mt0">The What of Learning: Modular Framework</h2>
+    <h2 class="helvetica pa3 dark-gray tc f4 f3-l mt0">The What of Learning</h2>
     <p class="f6 f5-l b lh-copy">
-      Business Need/Problem Statement:
+      Modular Framework:
     </p>
     <p class="f6 f5-l lh-copy">
-     Multiple students across different programs at State University (PhD, Industrial Engineering, Instructional Design) need to create professional web portfolios/sites. These students lack structured guidance on building static websites despite having technical capabilities. The university's current curriculum doesn't address this common need, and students are seeking costly alternatives (e.g. Wix, Squarespace, WordPress) or struggling to find cohesive resources, which could impact their academic success and professional transitions.
+     Here’s a list of modules in the "Static Sites 101" program, designed to cover the key topics needed.
     </p>
   </div>
   <div class="db mw7 center tc">
+   <p class="f6 f5-l b lh-copy">
+      Module 1: Topics & Subtopics
+    </p>
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-1.png">
   </div>
   <div class="db mw7 center tc">
