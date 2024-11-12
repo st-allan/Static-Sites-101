@@ -426,6 +426,25 @@ permalink: /part-one
      The formats within these elements include eLearning courses (one for each module in the framework), screencasts that walk through the step-by-step process of creating a static site, interactive PDFs or downloadable "cheat sheets" with reference materials, and quizzes. Each module will begin with a short three-question pre-assessment and conclude with a comprehensive ten-question evaluation.
   </p>
 </article>
+<article class="pa3 mw7 center">
+  <div>
+    <p class="f6 f5-l b lh-copy">
+      Learning flow:
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The learning experience design for "Static Sites 101" will use a linear flow model applied across all program modules.
+    </p>
+  </div>
+  <div class="db mw7 center tc">
+   <img class="db mw6" alt="Frank Ocean Blonde Album Cover" src="/assets/flow.png">
+  </div>
+  <p class="f6 f5-l lh-copy">
+     The program follows a structured, step-by-step approach, with the eight modules arranged sequentially. Learners must complete each module in full before progressing to the next.
+  </p>
+  <p class="f6 f5-l lh-copy">
+     Given the technical nature of the training, completing the modules in order is essential, as certain foundational activities, such as installing software or dependencies, are prerequisites for more advanced topics that build upon them.
+  </p>
+</article>
 
 
 
