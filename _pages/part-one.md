@@ -448,6 +448,17 @@ permalink: /part-one
      Given the technical nature of the training, completing the modules in order is essential, as certain foundational activities, such as installing software or dependencies, are prerequisites for more advanced topics that build upon them.
   </p>
 </article>
+<article class="pa3 mw7 center">
+  <div>
+    <h2 class="helvetica pa3 dark-gray tc f4 f3-l mt0">Part 1: Commentary</h2>
+    <p class="f6 f5-l lh-copy">
+      Modular Framework:
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Here’s a list of modules in the "Static Sites 101" program, designed to cover the key topics needed.
+    </p>
+  </div>
+</article>
 
 
 
