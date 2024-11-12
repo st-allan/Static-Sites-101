@@ -410,6 +410,22 @@ permalink: /part-one
      The digital learning experience will be self-paced, featuring a variety of resources like eLearning courses, learning aids, and instructional videos. As the course runs twice a year, deadlines for completing and submitting work will follow a semester-based schedule.
   </p>
 </article>
+<article class="pa3 mw7 center">
+  <div>
+    <p class="f6 f5-l b lh-copy">
+      Building blocks & formats:
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The learning experience design will be built on three core elements: Content, Activities, and Assessment/Feedback. Since this program is digital and asynchronous, there will be no live facilitation.
+    </p>
+  </div>
+  <div class="db mw7 center tc">
+   <img class="db mw6" alt="Frank Ocean Blonde Album Cover" src="/assets/blocks.png">
+  </div>
+  <p class="f6 f5-l lh-copy">
+     The formats within these elements include eLearning courses (one for each module in the framework), screencasts that walk through the step-by-step process of creating a static site, interactive PDFs or downloadable "cheat sheets" with reference materials, and quizzes. Each module will begin with a short three-question pre-assessment and conclude with a comprehensive ten-question evaluation.
+  </p>
+</article>
 
 
 
