@@ -348,24 +348,45 @@ permalink: /part-one
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-1.png">
   </div>
   <div class="db mw7 center tc">
+   <p class="f6 f5-l b lh-copy">
+      Module 2: Topics & Subtopics
+   </p>
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-2.png">
   </div>
   <div class="db mw7 center tc">
+   <p class="f6 f5-l b lh-copy">
+      Module 3: Topics & Subtopics
+    </p>
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-3.png">
   </div>
   <div class="db mw7 center tc">
+   <p class="f6 f5-l b lh-copy">
+      Module 4: Topics & Subtopics
+    </p>
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-4.png">
   </div>
   <div class="db mw7 center tc">
+   <p class="f6 f5-l b lh-copy">
+      Module 5: Topics & Subtopics
+    </p>
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-5.png">
   </div>
   <div class="db mw7 center tc">
+   <p class="f6 f5-l b lh-copy">
+      Module 6: Topics & Subtopics
+    </p>
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-6.png">
   </div>
   <div class="db mw7 center tc">
+   <p class="f6 f5-l b lh-copy">
+      Module 7: Topics & Subtopics
+    </p>
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-7.png">
   </div>
   <div class="db mw7 center tc">
+   <p class="f6 f5-l b lh-copy">
+      Module 8: Topics & Subtopics
+    </p>
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-8.png">
   </div>
 
