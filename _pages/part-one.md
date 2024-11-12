@@ -389,6 +389,27 @@ permalink: /part-one
     </p>
    <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/diagram-8.png">
   </div>
+</article>
+<article class="pa3 mw7 center">
+  <div>
+    <h2 class="helvetica pa3 dark-gray tc f4 f3-l mt0">The How of Learning</h2>
+    <p class="f6 f5-l b lh-copy">
+      Mode of delivery:
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Here’s a list of modules in the "Static Sites 101" program, designed to cover the key topics needed.
+    </p>
+  </div>
+  <div class="db mw7 center tc">
+   <p class="f6 f5-l b lh-copy">
+      Digital Asynchronous
+    </p>
+   <img class="db ba b--black-10" alt="Frank Ocean Blonde Album Cover" src="/assets/mode.png">
+  </div>
+  <p class="f6 f5-l lh-copy">
+     Here’s a list of modules in the "Static Sites 101" program, designed to cover the key topics needed.
+  </p>
+</article>
 
 
 
