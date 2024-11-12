@@ -416,14 +416,14 @@ permalink: /part-one
       Building blocks & formats:
     </p>
     <p class="f6 f5-l lh-copy">
-     The learning experience design will be built on three core elements: Content, Activities, and Assessment/Feedback. Since this program is digital and asynchronous, there will be no live facilitation.
+     The learning experience design will be built on three core elements: <b>Content, Activities, and Assessment/Feedback.</b> Since this program is digital and asynchronous, there will be no live facilitation.
     </p>
   </div>
   <div class="db mw7 center tc">
    <img class="db mw6" alt="Frank Ocean Blonde Album Cover" src="/assets/blocks.png">
   </div>
   <p class="f6 f5-l lh-copy">
-     The formats within these elements include eLearning courses (one for each module in the framework), screencasts that walk through the step-by-step process of creating a static site, interactive PDFs or downloadable "cheat sheets" with reference materials, and quizzes. Each module will begin with a short three-question pre-assessment and conclude with a comprehensive ten-question evaluation.
+     The formats within these elements include <b>eLearning courses (one for each module in the framework), screencasts that walk through the step-by-step process of creating a static site, interactive PDFs or downloadable "cheat sheets" with reference materials, and quizzes.</b> Each module will begin with a short three-question pre-assessment and conclude with a comprehensive ten-question evaluation.
   </p>
 </article>
 <article class="pa3 mw7 center">
@@ -432,7 +432,7 @@ permalink: /part-one
       Learning flow:
     </p>
     <p class="f6 f5-l lh-copy">
-     The learning experience design for "Static Sites 101" will use a linear flow model applied across all program modules.
+     The learning experience design for "Static Sites 101" will use a <b>linear flow model</b> applied across all program modules.
     </p>
   </div>
   <div class="db mw7 center tc">
