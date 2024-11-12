@@ -397,17 +397,17 @@ permalink: /part-one
       Mode of delivery:
     </p>
     <p class="f6 f5-l lh-copy">
-     Here’s a list of modules in the "Static Sites 101" program, designed to cover the key topics needed.
+     The delivery mode for "Static Sites 101" will be digital asynchronous.
     </p>
   </div>
   <div class="db mw7 center tc">
    <p class="f6 f5-l b lh-copy">
       Digital Asynchronous
     </p>
-   <img class="db ba mw5" alt="Frank Ocean Blonde Album Cover" src="/assets/mode.png">
+   <img class="db mw5" alt="Frank Ocean Blonde Album Cover" src="/assets/mode.png">
   </div>
   <p class="f6 f5-l lh-copy">
-     Here’s a list of modules in the "Static Sites 101" program, designed to cover the key topics needed.
+     The digital learning experience will be self-paced, featuring a variety of resources like eLearning courses, learning aids, and instructional videos. As the course runs twice a year, deadlines for completing and submitting work will follow a semester-based schedule.
   </p>
 </article>
 
