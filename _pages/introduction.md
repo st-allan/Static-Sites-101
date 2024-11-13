@@ -68,9 +68,42 @@ permalink: /introduction
 <article class="pa3 mw7 center">
   <div>
     <p class="f6 f5-l b lh-copy">
-      References:
+      Project References:
     </p>
     <p class="f6 f5-l lh-copy">
      Buchner, J. (2023). How to create a website using Jekyll and GitHub Pages. Kinsta. https://kinsta.com/blog/jekyll-static-site/
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Braun Canada. (n.d.). Home page. https://ca.braun.com/en-ca
+    </p>
+    <p class="f6 f5-l lh-copy">
+     U.S. Web Design System. (n.d.). U.S. web design system. https://designsystem.digital.gov/
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Kaplan, J. (n.d.). Joshua Kaplan. https://www.joshuakaplan.com/
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Camden, R., & Rinaldi, B. (2021). Working with static sites: Bringing the power of simplicity to modern sites (1st ed.). O'Reilly Media.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     GitHub Docs. (2023). Setting up a GitHub Pages site with Jekyll. GitHub. https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Jekyll. (2023). GitHub Pages. Jekyll Documentation. https://jekyllrb.com/docs/github-pages/ 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Pao, S. (2022, February 28). How to build a website | Github Pages | Jekyll | Template [Video]. YouTube. https://www.youtube.com/watch?v=g6AJ9qPPoyc 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Amazon Web Services. (n.d.). Amazon S3 - cloud object storage. https://aws.amazon.com/s3/
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Squarespace. (n.d.). Pricing. https://www.squarespace.com/pricing
+    </p>
+    <p class="f6 f5-l lh-copy">
+     WordPress.com. (n.d.). Pricing. https://wordpress.com/pricing/
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Wix.com. (n.d.). Plans. https://www.wix.com/plans
     </p>
   </div>
