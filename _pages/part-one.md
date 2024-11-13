@@ -452,10 +452,94 @@ permalink: /part-one
   <div>
     <h2 class="helvetica pa3 dark-gray tc f4 f3-l mt0">Part 1: Commentary</h2>
     <p class="f6 f5-l lh-copy">
-      Modular Framework:
+      The focus on static site development for this certification project was influenced by the learner personas section from Module 3: Learning Experience (LX) Design.
     </p>
     <p class="f6 f5-l lh-copy">
-     Here’s a list of modules in the "Static Sites 101" program, designed to cover the key topics needed.
+     After learning about static websites and their applications earlier this year, I was struck by how simply and affordably one could create a fully functional website. 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     When I shared this discovery with friends and colleagues, several practical applications emerged naturally from our conversations: creating instructional design portfolios, starting blogs independent of third-party content management platforms, and developing innovative, shareable resumes that stand out from the crowd.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     These were real needs expressed by real people, highlighting a significant opportunity.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Through some research, I noticed a significant gap in the available resources: while there are many free materials, such as technical documentation and YouTube videos covering specific aspects of the process, there was no comprehensive, structured approach to teaching static website development.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The scattered nature of available resources meant significant time investment in trial and error, creating unnecessary friction given that creating static sites requires only basic to intermediate computational literacy. 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     This fragmentation of resources often discouraged potentially interested learners from exploring this technology.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The need for a structured program that could simplify the "how" of static sites inspired the creation of my learner personas, all based on real needs and experiences.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     I decided to develop this final project as a static site to gather practical feedback on how a structured approach might work, essentially using the development process as a real-world laboratory for understanding the challenges and opportunities in teaching this technology.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     These two elements—extensive conversations with interested individuals and hands-on implementation of my own static site—provided sufficient insight to begin designing the Learning Experience. 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The process of creating my own site served as a valuable proof of concept and helped identify potential stumbling blocks that learners might encounter.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The three personas and their specific pain points emerged from real conversations, while the fictional "State University" was created to unite these diverse use cases under a single training solution. 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     “State University” provided a realistic context for implementing the training program and addressing various learner needs simultaneously. 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     For the persona portraits, I used an AI image generator with prompts describing each character's attributes and setting, creating representations that helped bring these personas to life.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     While the problem statement was also distilled from real conversations, I included a detailed cost comparison of different content management solutions to establish a benchmark and assign monetary value to the why of the learning solution. 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     This financial analysis helped develop the learning gap and outcomes while providing concrete justification for the training program's development.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The learning outcomes were crafted using the SMART framework, considering the personas' assumed basic knowledge of static site technologies and their desired end states.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     From my experience in instructional design, using the SMART framework for learning objectives and connecting KPIs or metrics to monetary value during ADDIE's Analyze and Design phases is very important for gaining stakeholder alignment. This helps communicating how the program achieves measurable value to both learners and the institution.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The training program's eight modules and their sequence reflect my personal learning journey in creating a static site, refined through user feedback and best practices in instructional design.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The progression moves from general to specific concepts, addressing software installation and dependencies before advancing to more complex topics. 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     This, in turn, influenced the decision to maintain a linear learning flow, eliminating potential confusion or technical issues that might arise from following steps out of sequence.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     This structured approach directly addresses the lack of organization reported by users and provides a clear pathway to create a static site.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     After successfully launching the first version of this static website using various internet resources, I opted for a digital asynchronous delivery mode based on both learner preferences and practical considerations.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     This approach—combining structured step-by-step videos, reinforcement quizzes, and comprehensive reference "cheat sheets"—optimizes both participant time and training deployment resources.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The implementation at "State University" includes a completion schedule for modules and project submission requirements to track program KPIs.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Based on my practical experience and user testing, I found that static site development could be effectively learned through clear instructions and key concept clarification, eliminating the need for more resource-intensive blended or synchronous delivery modes. This asynchronous approach better aligns with learner personas' demands for structured, on-demand content. 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     The decision to focus on asynchronous delivery also supports scalability, allowing the program to reach more learners without requiring proportional increases in instructional resources.
+    </p>
+    <p class="f6 f5-l lh-copy">
+     In my professional experience, the Learning Experience Design stage stands as the most rewarding phase of any project. 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Defining the who (through detailed personas), the why (in a clear problem statement and cost analysis), the what (through learning outcomes), and the how (through structured delivery methods) brings clarity to the role of training in solving specific challenges. 
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Getting to this stage and articulating these insights to stakeholders is very gratifying, as it often leads to <b>"aha"</b> moments where stakeholders recognize possibilities they hadn't considered to solve a problem.
     </p>
   </div>
 </article>
