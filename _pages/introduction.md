@@ -65,3 +65,12 @@ permalink: /introduction
    </a>
   </div>
 </article>
+<article class="pa3 mw7 center">
+  <div>
+    <p class="f6 f5-l b lh-copy">
+      References:
+    </p>
+    <p class="f6 f5-l lh-copy">
+     Buchner, J. (2023). How to create a website using Jekyll and GitHub Pages. Kinsta. https://kinsta.com/blog/jekyll-static-site/
+    </p>
+  </div>
