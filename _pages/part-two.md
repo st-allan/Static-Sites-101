@@ -25,6 +25,13 @@ permalink: /part-two
     The following personas will provide insights into this diversity and serve as an introduction to the project's problem statement.
     </p>
   </div>
+  <iframe 
+  src="https://st-allan.github.io/dli-proof-of-concept/" 
+  width="100%" 
+  height="500px" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
 </article>
 <article class="pa2 mw7 center">
   <div>
